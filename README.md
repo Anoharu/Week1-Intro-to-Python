@@ -1,15 +1,16 @@
+# Assignment 0: Basics and introduction
+
 This week of tutorials will cover the basics of using github, Colab, Jupyter and Python. This first assignment submission is intended as a self-check and for you to be prepared to the rest of the graded assignments in the course.
 
 You are also encouraged to use this assignment as a self-evaluation. If you're having a difficult time completing these tasks, then you may not have sufficient knowledge to complete the rest of the assignments in the course, or you might have to brush up on your Python knowledge to do so.
 
-Prerequisites: 
-
-Create a githubLinks to an external site. account. 
-You may want to use ColabLinks to an external site., Jupyter LabLinks to an external site. or an IDE of your choice that can run Jupyter Notebooks for this assignment.
-Be familiar with Python basics and Object Oriented Programming (OOP) concepts. 
-Resources if you need help:
-
-How to use gitLinks to an external site. and githubLinks to an external site.
+## Prerequisites: 
+- Create a githubLinks to an external site. account. 
+- You may want to use ColabLinks to an external site., Jupyter LabLinks to an external site. or an IDE of your choice that can run Jupyter Notebooks for this assignment.
+- Be familiar with Python basics and Object Oriented Programming (OOP) concepts.
+  
+## Resources if you need help:
+How to use [git](https://rogerdudler.github.io/git-guide/) to an external site. and [github](https://docs.github.com/en/get-started/quickstart/hello-world) to an external site.
 For any programming issues you face, errors you got: StackOverflowLinks to an external site.
 Tasks:
 
