@@ -13,7 +13,7 @@ You are also encouraged to use this assignment as a self-evaluation. If you're h
 - How to use [git](https://rogerdudler.github.io/git-guide/) to an external site. and [github](https://docs.github.com/en/get-started/quickstart/hello-world) to an external site.
 - For any programming issues you face, errors you got: [StackOverflow](https://stackoverflow.com/)
 
-##Tasks:
+## Tasks:
 1. Create a github account.
 2. Fork the [repository](https://github.com/IAT-ExploringAI-2025/Week1-Intro-to-Python) to an external site. to your github account.
 3. Create a new branch in Your Fork
