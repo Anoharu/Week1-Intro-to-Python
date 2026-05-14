@@ -15,12 +15,12 @@ You are also encouraged to use this assignment as a self-evaluation. If you're h
 
 ## Tasks:
 1. Create a github account.
-2. Fork the [repository](https://github.com/IAT-ExploringAI-2025/Week1-Intro-to-Python) to an external site. to your github account.
+2. Fork the [repository](https://github.com/IAT-ExploringAI-2025/Week1-Intro-to-Python) to your github account.
 3. Create a new branch in Your Fork
 4. Make changes in Jupyter Notebook file using Colab:
   - Create **new examples** and a comment explaining it in **separate sub-headings** in the notebook.
   - Commit changes to **your** branch
 5. Merge changes with **your** main branch.
 
-**Submission in Canvas:** your github account name and a link to your forked and changed repository.
+**Submission in Canvas or Discord:** your github account name and a link to your forked and changed repository.
 Even though this is not graded assignment, this will affect your overall course participation marks in case of timely completion of the task. 
